@@ -3,6 +3,8 @@ Learn redux store in react project.
 
 # 1. Setup
 ```shell
+$ npx create-react-app react-redux-01 --template typescript
+$ cd react-redux-01
 $ npm install -S redux react-redux @reduxjs/toolkit @types/react-redux
 
 ```
