@@ -1,7 +1,15 @@
 # react-redux-01
 Learn redux store in react project.
 
-# 1. Setup
+# 1. Configuration
+## 1.1 Install
+```shell
+$ cd react-redux-01
+$ yarn
+```
+
+
+## 1.2. Setup
 ```shell
 $ npx create-react-app react-redux-01 --template typescript
 $ cd react-redux-01
